@@ -1,0 +1,9 @@
+﻿GUI v. CLI
+Layla Sheeran
+9/1/2025
+MART120
+
+
+        The world uses the Graphic User Interface everyday on computers, phones, and tablets. The concept is buttons and easy concepts for users to understand. But the crazy thing seems to be that the GUI takes longer to use and is actually,more difficult and complex. The GUI seems easy to use on the surface because it is easier to read and use on an introductory level but the concept of the coding behind it is deeper and doesn’t allow the user to have as much freewill with the technology. 
+        The Command-Line Interface is a more text based way of using software. The concept is more direct and with less of a work around. It is easier for more tech driven and oriented people because the glamour of the extra buttons and extra steps gets in the way. The cons of the CLI seem to be that it is harder to learn and not as easy to sell to an audience from a marketing standpoint. The CLI requires memorization of commands and is less visually appealing and harder to promote to an audience, the way that phones have been marketed. 
+        Overall both seem like good ways to learn software. The GUI is like an introduction to software where the CLI is more of a deeper look at the more technical side to the software. They both seem like great ways to use the software but personally I am excited to learn more about the CLI from a video editing standpoint. I use Adobe Premier for a lot of my job and schoolwork and I think that learning to memorize commands and learning the CLI will make learning my how to do my job easier!
