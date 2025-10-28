@@ -1,0 +1,31 @@
+body {
+  bgcolor: pink;
+  text-align: center;
+}
+h1 {
+  color: purple;
+}
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}s
+pan{
+    color:rgb(119, 66, 66);
+    background-color:rgb(79, 100, 219);
+}
